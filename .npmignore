@@ -10,3 +10,10 @@ examples/
 
 .travis.yml
 .editorconfig
+
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+
+tsconfig.json
+tslint.json
